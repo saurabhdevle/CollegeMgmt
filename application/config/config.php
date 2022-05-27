@@ -35,7 +35,7 @@ $config['base_url'] = '';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'http://35.154.126.172/CollegeMgmt/';
+$config['index_page'] = 'http://3.109.185.235/CollegeMgmt/';
 
 /*
 |--------------------------------------------------------------------------
